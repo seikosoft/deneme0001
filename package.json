@@ -1,0 +1,25 @@
+{
+  "name": "serkanerdin0001",
+  "version": "1.0.0",
+  "description": "deneme0001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serkan": "echo 'Benin adım Serkan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme0001",
+    "paket"
+  ],
+  "author": "Serkan Erdin",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.2",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  }
+}
